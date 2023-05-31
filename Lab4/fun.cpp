@@ -107,3 +107,4 @@ unsigned int Parallelogram::size()
 {
 	return this -> size_;
 }
+
