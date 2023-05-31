@@ -80,3 +80,4 @@ void Quadratic_equation::print()
 	std::cout << Quadratic_equation__.a << "x^2" << " + " << Quadratic_equation__.b << "x" << " + " << Quadratic_equation__.c;
 }
 
+
