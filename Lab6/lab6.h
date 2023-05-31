@@ -17,7 +17,6 @@ bool all_off(InputIt first, InputIt last, Predicate pred)
 	return flag;
 }
 
-
 template <typename InputIt, typename Predicate>
 bool one_off(InputIt first, InputIt last, Predicate pred)
 {
