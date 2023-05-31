@@ -201,3 +201,4 @@ Array_of_integers Array_of_integers::operator + (const Array_of_integers& other)
 
 	return res;
 }
+
